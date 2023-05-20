@@ -1,10 +1,8 @@
 /* у меня к тебе вопрос: ты нафиг сюда зашел, а? это служебная часть сайта, тут нет ничего интересного. Иди лучше ютуб посмотри. */
 tailwind.config = {
   theme: {
-    extend: {
-      colors: {
-        clifford: '#da373d',
-      }
+    fontFamily: {
+        'sans': ['Montserrat', 'sans-serif'],
     }
   }
 }
